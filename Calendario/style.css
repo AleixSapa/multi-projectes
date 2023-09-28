@@ -1,0 +1,34 @@
+/*Para El Calendario*/
+#calendar {
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+
+
+
+
+
+/*De que color es cada tema*/
+
+.Pueblo {
+
+    color: #ffff00;
+}
+
+.Cumples {
+    color: #CDE72D;
+}
+
+
+
+/*Poner un tema al lado de otro*/
+
+.container {
+    white-space: nowrap;
+}
+
+.left-div,
+.right-div {
+    display: inline-block;
+}
